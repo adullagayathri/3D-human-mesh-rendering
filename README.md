@@ -10,7 +10,7 @@ Getting Started
 
 Download or clone the repo:
 
-git clone https://github.com/yourusername/osx-3d-reconstruction.git
+git clone https://github.com/adullagayathri/3D-human-mesh-rendering.git
 cd osx-3d-reconstruction
 
 2. Open the Notebook
